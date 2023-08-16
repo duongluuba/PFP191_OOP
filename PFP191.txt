@@ -1,0 +1,3 @@
+HE163624	Vu Tuan Minh	21	9.0	8.0	7.0	9.0	7.0	7.9	Kha
+HE170269	Nguyen Cong Hieu	20	9.0	8.0	7.0	9.0	9.0	8.5	Gioi
+HE172166	Luu Ba Quy Duong	20	9.0	9.0	9.0	9.0	9.0	9.0	Gioi
